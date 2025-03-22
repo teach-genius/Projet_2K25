@@ -1,0 +1,8 @@
+Etape 1:
+installation des dependances
+-ouvrir le terminal(invite de commande)
+-aller au dossier courant où se trouve le requirements.txt
+taper la commande: 
+ pip install -r requirements.txt
+
+
